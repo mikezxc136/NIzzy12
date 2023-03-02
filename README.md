@@ -1,7 +1,7 @@
 ### Hi there 👋
 Hello! I am Nizzy 😇
-My real name is Tuan and I am proud to say that I am Vietnamese
-I love learning new things and everything about Technology. I keep exploring new things. I am passionate to do something to solve real world problems using technology and make this world a better place.
+<p> My real name is Tuan, I live in Ha Noi - Viet Nam </p>
+<p> I love learning new things and everything about Technology. I keep exploring new things. I am passionate to do something to solve real world problems using technology and make this world a better place.</p>
 
 - 🎓 I’m pursuing Data Science from USTH
 - 🌱 I’m currently fascinated with Machine Learning, Data Science, Data Analyst
