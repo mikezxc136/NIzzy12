@@ -46,7 +46,7 @@ Hello! I am Mike 😇
 <h2 align="center">📫 Reach out to me on</h2>
   <p align="center">
     <a target="_blank"href="https://www.linkedin.com/in/tu%E1%BA%A5n-v%C4%83n-065902225/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-    <a target="_blank"href="https://github.com/NIzzy12"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+    <a target="_blank"href="https://github.com/mikezxc136"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
     <a href="mailto:mg.tuandv.ba11-096@st.usth.edu.vn?subject=Hi%20Manasvi,%20From%20Github"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://www.instagram.com/tuandv136/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -55,7 +55,7 @@ Hello! I am Mike 😇
 
 ### **Github Streak:**
 <p align = "center">
-  <img src = "https://github-readme-streak-stats.herokuapp.com/?user=NIzzy12&line_height=40&theme=dark">
+  <img src = "https://github-readme-streak-stats.herokuapp.com/?user=mikezxc136&line_height=40&theme=dark">
 </p>
 
 ---
@@ -64,15 +64,15 @@ Hello! I am Mike 😇
 
 <p align="center">
   
-  <img src="https://github-readme-stats.vercel.app/api?username=NIzzy12&hide=stars&show_icons=true&line_height=48&theme=dark">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NIzzy12&count_private=true&line_height=40&theme=dark">
+  <img src="https://github-readme-stats.vercel.app/api?username=mikezxc136&hide=stars&show_icons=true&line_height=48&theme=dark">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mikezxc136&count_private=true&line_height=40&theme=dark">
 
 </p>
   
  <p align="center"> 
   Visitors count<br>
-  <img src="https://profile-counter.glitch.me/NIzzy12/count.svg" />
+  <img src="https://profile-counter.glitch.me/mikezxc136/count.svg" />
 </p>
 
 <!--
-**NIzzy12/NIzzy12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**mikezxc136/mikezxc136** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
