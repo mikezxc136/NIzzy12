@@ -4,7 +4,7 @@ Hello! I am Mike 😇
 <p> I love learning new things and everything about Technology. I keep exploring new things. I am passionate to do something to solve real world problems using technology and make this world a better place.</p>
 
 - 🎓 I’m pursuing Data Science from USTH
-- 🌱 I’m currently fascinated with Machine Learning, Data Science, Data Analyst
+- 🌱 I’m currently fascinated with Machine Learning, Data Science, Data Engineer
 - 🔭 I love music and arts
 - 🎬 I love watching movies and shows in my free time.
 - 📫 Feel free to contact me if you want to work on some interesting projects or to discuss about technology.
