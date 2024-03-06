@@ -16,7 +16,6 @@ Hello! I am Mike 😇
 
 ![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python&logoColor=ffffff&labelColor=3776AB)
 ![Java](https://img.shields.io/badge/-Java-000000?style=flat&logo=openjdk&logoColor=ffffff&labelColor=FF6F00)
-![Scala](https://img.shields.io/badge/-Scala-000000?style=flat&logo=scala&logoColor=ffffff&labelColor=DC322F)
 
 ##### 💾 Databases : 
 
